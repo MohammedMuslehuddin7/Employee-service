@@ -1,0 +1,14 @@
+C:\Users\moham\source\repos\VoterInfoRepoPattern\VoterInfoRepoPattern\bin\Debug\netcoreapp2.1\VoterInfoRepoPattern.deps.json
+C:\Users\moham\source\repos\VoterInfoRepoPattern\VoterInfoRepoPattern\bin\Debug\netcoreapp2.1\VoterInfoRepoPattern.runtimeconfig.json
+C:\Users\moham\source\repos\VoterInfoRepoPattern\VoterInfoRepoPattern\bin\Debug\netcoreapp2.1\VoterInfoRepoPattern.runtimeconfig.dev.json
+C:\Users\moham\source\repos\VoterInfoRepoPattern\VoterInfoRepoPattern\bin\Debug\netcoreapp2.1\VoterInfoRepoPattern.dll
+C:\Users\moham\source\repos\VoterInfoRepoPattern\VoterInfoRepoPattern\bin\Debug\netcoreapp2.1\VoterInfoRepoPattern.pdb
+C:\Users\moham\source\repos\VoterInfoRepoPattern\VoterInfoRepoPattern\obj\Debug\netcoreapp2.1\VoterInfoRepoPattern.csprojAssemblyReference.cache
+C:\Users\moham\source\repos\VoterInfoRepoPattern\VoterInfoRepoPattern\obj\Debug\netcoreapp2.1\VoterInfoRepoPattern.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\VoterInfoRepoPattern\VoterInfoRepoPattern\obj\Debug\netcoreapp2.1\VoterInfoRepoPattern.RazorAssemblyInfo.cache
+C:\Users\moham\source\repos\VoterInfoRepoPattern\VoterInfoRepoPattern\obj\Debug\netcoreapp2.1\VoterInfoRepoPattern.RazorAssemblyInfo.cs
+C:\Users\moham\source\repos\VoterInfoRepoPattern\VoterInfoRepoPattern\obj\Debug\netcoreapp2.1\VoterInfoRepoPattern.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\VoterInfoRepoPattern\VoterInfoRepoPattern\obj\Debug\netcoreapp2.1\VoterInfoRepoPattern.AssemblyInfo.cs
+C:\Users\moham\source\repos\VoterInfoRepoPattern\VoterInfoRepoPattern\obj\Debug\netcoreapp2.1\VoterInfoRepoPattern.RazorTargetAssemblyInfo.cache
+C:\Users\moham\source\repos\VoterInfoRepoPattern\VoterInfoRepoPattern\obj\Debug\netcoreapp2.1\VoterInfoRepoPattern.dll
+C:\Users\moham\source\repos\VoterInfoRepoPattern\VoterInfoRepoPattern\obj\Debug\netcoreapp2.1\VoterInfoRepoPattern.pdb
